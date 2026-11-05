@@ -7,6 +7,9 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'App\\Config\\Env' => $baseDir . '/src/Config/Env.php',
+    'App\\Contracts\\BookRepositoryInterface' => $baseDir . '/src/Contracts/BookRepositoryInterface.php',
     'App\\Database\\Connection' => $baseDir . '/src/Database/Connection.php',
+    'App\\Models\\Book' => $baseDir . '/src/Models/Book.php',
+    'App\\Repositories\\MySQLBookRepository' => $baseDir . '/src/Repositories/MySQLBookRepository.php',
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
 );
