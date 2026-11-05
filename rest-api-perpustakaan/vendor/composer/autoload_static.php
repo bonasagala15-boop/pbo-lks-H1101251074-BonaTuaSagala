@@ -26,6 +26,7 @@ class ComposerStaticInit0719e1d5d87ede0a26efef83de4ab839
         'App\\Database\\Connection' => __DIR__ . '/../..' . '/src/Database/Connection.php',
         'App\\Models\\Book' => __DIR__ . '/../..' . '/src/Models/Book.php',
         'App\\Repositories\\MySQLBookRepository' => __DIR__ . '/../..' . '/src/Repositories/MySQLBookRepository.php',
+        'App\\Services\\BookService' => __DIR__ . '/../..' . '/src/Services/BookService.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
     );
 
