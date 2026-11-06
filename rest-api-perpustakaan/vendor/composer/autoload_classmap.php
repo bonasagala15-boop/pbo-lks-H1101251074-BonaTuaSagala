@@ -14,3 +14,4 @@ return array(
     'App\\Services\\BookService' => $baseDir . '/src/Services/BookService.php',
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
 );
+
