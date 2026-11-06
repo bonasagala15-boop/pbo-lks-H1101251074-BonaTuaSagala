@@ -46,3 +46,4 @@ Buka http://localhost:3000 di browser.
 - [x] [Pertemuan 5 — CRUD Kategori](pertemuan-05/)
 - [x] [Pertemuan 6 — Frontend](pertemuan-06/)
 - [x] [Pertemuan 7 — Integrasi & Finalisasi](pertemuan-07/)
+
